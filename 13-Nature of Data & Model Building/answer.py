@@ -49,3 +49,12 @@ xt = ohe.fit_transform(X)
 onehotlabels = xt
 
 print onehotlabels.toarray()
+
+#[[ 0.  0.  0. ...,  0.  0.  1.]
+# [ 0.  0.  0. ...,  1.  0.  0.]
+# [ 0.  0.  0. ...,  0.  0.  1.]
+# ..., 
+# [ 0.  0.  0. ...,  0.  0.  1.]
+# [ 0.  0.  0. ...,  1.  0.  0.]
+# [ 0.  0.  0. ...,  0.  1.  0.]]
+#Your one hot encoded data has the following shape:  (891, 1726)
