@@ -50,6 +50,7 @@ onehotlabels = xt
 
 print onehotlabels.toarray()
 
+#output
 #[[ 0.  0.  0. ...,  0.  0.  1.]
 # [ 0.  0.  0. ...,  1.  0.  0.]
 # [ 0.  0.  0. ...,  0.  0.  1.]
