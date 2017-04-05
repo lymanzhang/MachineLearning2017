@@ -14,7 +14,7 @@ http://www.kdnuggets.com/2015/12/beyond-one-hot-exploration-categorical-variable
     函数OneHotEncoder使用困惑  
 http://discussions.youdaxue.com/t/one-hot-encoding-onehotencoder/6141  
 
-···
+'''
 import numpy as np
 import pandas as pd
 
@@ -39,7 +39,7 @@ onehotlabels = xt
 
 print onehotlabels.toarray()
 
-···
+'''
     输出结果如下：  
 
         [[ 0.  0.  0. ...,  0.  0.  1.]
