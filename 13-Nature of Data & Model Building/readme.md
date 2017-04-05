@@ -1,1 +1,16 @@
-在这个部分，主要涉及到了OneHotEncoder的使用
+在这个部分，主要涉及到了OneHotEncoder的使用  
+这里涉及到sklearn中的一个函数OneHotEncoder，顺便扩展到容易混淆的另一个函数LabelEncoder。  
+
+OneHotEncoder  
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html  
+
+LabelEncoder  
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html  
+
+相关知识链接：  
+Beyond One-Hot: an exploration of categorical variables  
+http://www.kdnuggets.com/2015/12/beyond-one-hot-exploration-categorical-variables.html
+
+函数OneHotEncoder使用困惑  
+http://discussions.youdaxue.com/t/one-hot-encoding-onehotencoder/6141  
+
